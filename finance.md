@@ -7,3 +7,4 @@
  2013-00-00 | sponsor [xatierlike]      |           100 |             0 |          1000 |
  2013-12-12 | domain: childish.tw       |             0 |           600 |           400 | via p0e
  2014-10-15 | sponsor [tjjh89017]       |           100 |             0 |           500 |
+ 2014-10-24 | domain: childish.tw       |             0 |          1800 |        - 1300 | 續用3年
